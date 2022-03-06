@@ -1,7 +1,7 @@
 package miniProjects;
 
 import java.util.Scanner;
-public class PointDemo extends Point {
+public class PointDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Point A=new Point();
