@@ -1,6 +1,6 @@
 Armstrong Number output=> 
-0 1 153 370 371 407 
-Number of armstrong numbers between 0 and 1000000: 6
+1 2 3 4 5 6 7 8 9 153 370 371 407 1634 8208 9474 54748 92727 93084 548834 
+Number of armstrong numbers between 0 and 1000000: 20
 
 Point Program Output=>
 Enter x coordinate for point1: 2
