@@ -1,0 +1,187 @@
+Singly Linked list minor project.
+Done by Biswajit Mahapatra
+Regd. no. 2141013021      
+Section: 2141001
+Branch: CSE
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+1
+List created
+Enter number
+12
+Enter Y to add next value in node.
+Y
+Enter number
+13
+Enter Y to add next value in node.
+Y
+Enter number
+14
+Enter Y to add next value in node.
+Y
+Enter number
+15
+Enter Y to add next value in node.
+Y
+Enter number
+16
+Enter Y to add next value in node.
+Y
+Enter number
+12
+Enter Y to add next value in node.
+Y
+Enter number
+15
+Enter Y to add next value in node.
+Y
+Enter number
+19
+Enter Y to add next value in node.
+n
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+2
+
+1 node value 12
+2 node value 13
+3 node value 14
+4 node value 15
+5 node value 16
+6 node value 12
+7 node value 15
+8 node value 19
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+3
+Number of elements: 8
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list       
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+4
+The number of unique elements: 6
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+5
+Enter the element: 14
+Element found at: 3
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+2
+
+1 node value 12
+2 node value 13
+3 node value 14
+4 node value 15
+5 node value 16
+6 node value 19
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+6 
+The second largest element is: 16
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+7
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+8
+Enter node position: 6
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+2
+
+1 node value 12
+2 node value 13
+3 node value 14
+4 node value 15
+5 node value 16
+***Menu***
+0:Exit
+1:Creation
+2:Display
+3:Count number of elements in the list
+4:Count number of unique elements in the list
+5:Search for an element
+6:Find 2nd largest element
+7:Remove all duplicate elements
+8:Delete at any node
+0
